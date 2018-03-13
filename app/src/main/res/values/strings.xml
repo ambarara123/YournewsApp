@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Your news App</string>
+    <string name="googleIndiaURL">https://newsapi.org/v2/top-headlines?country=in</string>
+    <string name="title_activity_sport">SportActivity</string>
+    <string name="drawer_open">draweropen</string>
+    <string name="drawer_close">drawerclose</string>
+    <string-array name="news_category">
+        <item>Cricket</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sports"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/sports"
+        android:title="Sports News" />
+    <item
+        android:id="@+id/enter"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_wc_black_24dp"
+        android:title="Entertainment" />
+    <item
+        android:id="@+id/science"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/science"
+        android:title="Science" />
+    <item
+        android:id="@+id/technology"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_laptop_chromebook_black_24dp"
+        android:title="Technology" />
+    <item
+        android:id="@+id/health"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/health"
+        android:title="Health" />
+    <item
+        android:id="@+id/business"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_business_center_black_24dp"
+        android:title="Business" />
+    <item
+        android:id="@+id/inter"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/iner"
+        android:title="International" />
+</menu>
